@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS fitFlow_db;
+
+CREATE DATABASE fitFlow_db;
